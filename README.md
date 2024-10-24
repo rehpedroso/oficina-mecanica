@@ -16,5 +16,3 @@ O esquema foi desenvolvido com as seguintes entidades principais:
 ## Diagrama Entidade-Relacionamento (DER)
 ![Diagrama DER](https://github.com/rehpedroso/oficina-mecanica/blob/main/Desafio%20de%20Projeto%20-%20Construindo%20um%20Esquema%20Conceitual%20para%20Banco%20De%20dados.png)
 
-## Criação do Esquema Lógico
-![Código SQL]([https://github.com/rehpedroso/oficina-mecanica/blob/main/Desafio%20de%20Projeto%20-%20Construindo%20um%20Esquema%20Conceitual%20para%20Banco%20De%20dados.png](https://github.com/rehpedroso/oficina-mecanica/blob/main/Desafio%20de%20Projeto%20-%20Construindo%20um%20Esquema%20Conceitual%20para%20Banco%20De%20dados.sql))
