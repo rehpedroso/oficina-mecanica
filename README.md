@@ -13,3 +13,5 @@ O esquema foi desenvolvido com as seguintes entidades principais:
 - **Serviço**: Serviços realizados nas OS.
 - **Peça**: Peças utilizadas nas OS.
 
+## Diagrama Entidade-Relacionamento (DER)
+![Diagrama DER](link-para-o-diagrama)
