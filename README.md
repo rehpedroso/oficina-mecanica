@@ -13,5 +13,3 @@ O esquema foi desenvolvido com as seguintes entidades principais:
 - **Serviço**: Serviços realizados nas OS.
 - **Peça**: Peças utilizadas nas OS.
 
-## Diagrama Entidade-Relacionamento (DER)
-![Diagrama DER](https://dbdiagram.io/d/Sistema-de-Controle-de-Ordens-de-Servico-Oficina-Mecanica-67199d1d97a66db9a3109d38)
